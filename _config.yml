@@ -23,7 +23,8 @@ avatar: /image/IMG_1907.JPG
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  # Blog: /archives
+  Blog: https://velog.io/@mhlee21
   # Category:
   # Tags: 
   # Link:
